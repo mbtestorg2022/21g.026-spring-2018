@@ -29,13 +29,78 @@ Required readings are listed in the [Readings and Videos]({{< baseurl >}}/pages/
 Grading 
 --------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Reading responses (weekly, 10 total) | 20% |
-| Presentation of readings (1) | 20% |
-| Paper  | 20% |
-| Final project |  {{< br >}}{{< br >}} 30% {{< br >}}{{< br >}} (20% for project + 10% for project presentation) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Class participation {{< br >}}{{< br >}} _The class will run largely on discussion, so I expect you to come having completed the readings and ready to discuss the material with your classmates!_ {{< br >}}{{< br >}}  | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reading responses (weekly, 10 total)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation of readings (1)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+30%
+
+(20% for project + 10% for project presentation)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Class participation
+
+_The class will run largely on discussion, so I expect you to come having completed the readings and ready to discuss the material with your classmates!_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For further detail on the activities above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
