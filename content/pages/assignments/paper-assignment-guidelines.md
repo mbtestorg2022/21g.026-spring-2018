@@ -19,7 +19,7 @@ Evaluation criteria:
 *   Structure (Is the paper organized in an understandable manner? Are citations included? Are they used appropriately? Are page numbers included?)
 *   Writing (Is the paper spell-checked? How is the use of grammar? Is sentence structure varied? Is the writing polished?)
 
-For guidance on how to cite work in your paper, please consult ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chicago Citation Style: Footnotes and Bibliography. (PDF)](https://politics.ucsc.edu/undergraduate/chicago%20style%20guide.pdf)
+For guidance on how to cite work in your paper, please consult [Chicago Citation Style: Footnotes and Bibliography. (PDF)](https://politics.ucsc.edu/undergraduate/chicago%20style%20guide.pdf)
 
 How to go about writing this paper (in case you’re stuck):
 

@@ -37,4 +37,4 @@ A [prospectus]({{< baseurl >}}/pages/assignments/final-project-prospectus-guidel
 
 _Student Example_
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Price of Love" (PDF - 5.4MB)]({{< baseurl >}}/resources/mit21g_026s18_final_project) by Nwamaka Amobi and Gabrielle S. Ballard. Used with permission.
+["The Price of Love" (PDF - 5.4MB)]({{< baseurl >}}/resources/mit21g_026s18_final_project) by Nwamaka Amobi and Gabrielle S. Ballard. Used with permission.
