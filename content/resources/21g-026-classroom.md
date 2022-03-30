@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 53b64bf6-41e3-a041-a6fe-c0cde9fe1e5e
 resourcetype: Image
 title: 21G-026-classroom.jpg
 uid: b61b7579-59e8-8ade-631c-79013cb052e0
